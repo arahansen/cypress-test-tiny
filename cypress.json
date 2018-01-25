@@ -1,3 +1,4 @@
 {
-  "videoRecording": true
+  "videoRecording": true,
+  "rootUrl": "localhost:3000"
 }
